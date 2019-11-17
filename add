@@ -1,0 +1,6 @@
+x=0
+for i in $@
+do
+  x=$(($i+$x))
+done
+echo $x
