@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1573941088,,"x"
+|2,0,1574009349,,"x"
 :wq
 |2,0,1572753264,,"wq"
 :q!
@@ -64,230 +64,272 @@ $
 |3,0,36,0,1,0,1571510270,"*"
 
 # File marks:
-'0  1  0  ~/mysite/templates/admin/file11.txt
-|4,48,1,0,1573941088,"~/mysite/templates/admin/file11.txt"
-'1  1  12  ~/mysite/templates/admin/file2.txt
-|4,49,1,12,1573941041,"~/mysite/templates/admin/file2.txt"
-'2  1  12  ~/mysite/templates/admin/file1.txt
-|4,50,1,12,1573941031,"~/mysite/templates/admin/file1.txt"
-'3  58  16  ~/mysite/mysite/settings.py
-|4,51,58,16,1573940743,"~/mysite/mysite/settings.py"
-'4  3  13  ~/mysite/templates/admin/base_site.html
-|4,52,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
-'5  58  51  ~/mysite/mysite/settings.py
-|4,53,58,51,1573939343,"~/mysite/mysite/settings.py"
-'6  17  36  ~/mysite/polls/admin.py
-|4,54,17,36,1573939116,"~/mysite/polls/admin.py"
-'7  16  40  ~/mysite/polls/models.py
-|4,55,16,40,1573939095,"~/mysite/polls/models.py"
-'8  16  29  ~/mysite/polls/admin.py
-|4,56,16,29,1573939016,"~/mysite/polls/admin.py"
-'9  16  29  ~/mysite/polls/admin.py
-|4,57,16,29,1573939016,"~/mysite/polls/admin.py"
+'0  6  77  ~/mysite/templates/admin/base_site.html
+|4,48,6,77,1574009349,"~/mysite/templates/admin/base_site.html"
+'1  5  0  ~/mysite/templates/admin/index.html
+|4,49,5,0,1574009219,"~/mysite/templates/admin/index.html"
+'2  40  28  ~/mysite/mysite/settings.py
+|4,50,40,28,1574009058,"~/mysite/mysite/settings.py"
+'3  41  22  ~/mysite/mysite/settings.py
+|4,51,41,22,1574009010,"~/mysite/mysite/settings.py"
+'4  31  91  ~/mysite/templates/admin/index.html
+|4,52,31,91,1574008905,"~/mysite/templates/admin/index.html"
+'5  31  91  ~/mysite/templates/admin/index.html
+|4,53,31,91,1574008905,"~/mysite/templates/admin/index.html"
+'6  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,54,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+'7  6  72  ~/mysite/templates/admin/base_site.html
+|4,55,6,72,1574008380,"~/mysite/templates/admin/base_site.html"
+'8  3  50  ~/mysite/templates/admin/base_site.html
+|4,56,3,50,1574008274,"~/mysite/templates/admin/base_site.html"
+'9  3  50  ~/mysite/templates/admin/base_site.html
+|4,57,3,50,1574008274,"~/mysite/templates/admin/base_site.html"
 
 # Jumplist (newest first):
--'  1  0  ~/mysite/templates/admin/file11.txt
-|4,39,1,0,1573941088,"~/mysite/templates/admin/file11.txt"
--'  1  12  ~/mysite/templates/admin/file2.txt
-|4,39,1,12,1573941041,"~/mysite/templates/admin/file2.txt"
--'  1  12  ~/mysite/templates/admin/file2.txt
-|4,39,1,12,1573941041,"~/mysite/templates/admin/file2.txt"
--'  1  12  ~/mysite/templates/admin/file1.txt
-|4,39,1,12,1573941031,"~/mysite/templates/admin/file1.txt"
--'  1  12  ~/mysite/templates/admin/file1.txt
-|4,39,1,12,1573941031,"~/mysite/templates/admin/file1.txt"
--'  1  12  ~/mysite/templates/admin/file1.txt
-|4,39,1,12,1573941031,"~/mysite/templates/admin/file1.txt"
--'  1  12  ~/mysite/templates/admin/file1.txt
-|4,39,1,12,1573941031,"~/mysite/templates/admin/file1.txt"
--'  58  16  ~/mysite/mysite/settings.py
-|4,39,58,16,1573940743,"~/mysite/mysite/settings.py"
--'  58  16  ~/mysite/mysite/settings.py
-|4,39,58,16,1573940743,"~/mysite/mysite/settings.py"
--'  58  16  ~/mysite/mysite/settings.py
-|4,39,58,16,1573940743,"~/mysite/mysite/settings.py"
--'  58  16  ~/mysite/mysite/settings.py
-|4,39,58,16,1573940743,"~/mysite/mysite/settings.py"
--'  58  16  ~/mysite/mysite/settings.py
-|4,39,58,16,1573940743,"~/mysite/mysite/settings.py"
--'  58  16  ~/mysite/mysite/settings.py
-|4,39,58,16,1573940743,"~/mysite/mysite/settings.py"
--'  58  16  ~/mysite/mysite/settings.py
-|4,39,58,16,1573940743,"~/mysite/mysite/settings.py"
--'  58  16  ~/mysite/mysite/settings.py
-|4,39,58,16,1573940743,"~/mysite/mysite/settings.py"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  3  13  ~/mysite/templates/admin/base_site.html
-|4,39,3,13,1573940529,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
--'  1  0  ~/mysite/templates/admin/base_site.html
-|4,39,1,0,1573940524,"~/mysite/templates/admin/base_site.html"
+-'  6  77  ~/mysite/templates/admin/base_site.html
+|4,39,6,77,1574009349,"~/mysite/templates/admin/base_site.html"
+-'  5  0  ~/mysite/templates/admin/index.html
+|4,39,5,0,1574009219,"~/mysite/templates/admin/index.html"
+-'  5  0  ~/mysite/templates/admin/index.html
+|4,39,5,0,1574009219,"~/mysite/templates/admin/index.html"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574009134,"~/mysite/templates/admin/index.html"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574009134,"~/mysite/templates/admin/index.html"
+-'  40  28  ~/mysite/mysite/settings.py
+|4,39,40,28,1574009058,"~/mysite/mysite/settings.py"
+-'  40  28  ~/mysite/mysite/settings.py
+|4,39,40,28,1574009058,"~/mysite/mysite/settings.py"
+-'  40  28  ~/mysite/mysite/settings.py
+|4,39,40,28,1574009058,"~/mysite/mysite/settings.py"
+-'  40  28  ~/mysite/mysite/settings.py
+|4,39,40,28,1574009058,"~/mysite/mysite/settings.py"
+-'  41  22  ~/mysite/mysite/settings.py
+|4,39,41,22,1574009010,"~/mysite/mysite/settings.py"
+-'  41  22  ~/mysite/mysite/settings.py
+|4,39,41,22,1574009010,"~/mysite/mysite/settings.py"
+-'  41  22  ~/mysite/mysite/settings.py
+|4,39,41,22,1574009010,"~/mysite/mysite/settings.py"
+-'  41  22  ~/mysite/mysite/settings.py
+|4,39,41,22,1574009010,"~/mysite/mysite/settings.py"
 -'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
+|4,39,58,51,1574008921,"~/mysite/mysite/settings.py"
+-'  59  51  ~/mysite/mysite/settings.py
+|4,39,59,51,1574008921,"~/mysite/mysite/settings.py"
 -'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
+|4,39,58,51,1574008921,"~/mysite/mysite/settings.py"
+-'  59  51  ~/mysite/mysite/settings.py
+|4,39,59,51,1574008921,"~/mysite/mysite/settings.py"
 -'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
+|4,39,58,51,1574008921,"~/mysite/mysite/settings.py"
+-'  59  51  ~/mysite/mysite/settings.py
+|4,39,59,51,1574008921,"~/mysite/mysite/settings.py"
 -'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1573939343,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  109  15  ~/mysite/mysite/settings.py
-|4,39,109,15,1573939300,"~/mysite/mysite/settings.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
--'  17  36  ~/mysite/polls/admin.py
-|4,39,17,36,1573939116,"~/mysite/polls/admin.py"
+|4,39,58,51,1574008921,"~/mysite/mysite/settings.py"
+-'  59  51  ~/mysite/mysite/settings.py
+|4,39,59,51,1574008921,"~/mysite/mysite/settings.py"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
+-'  31  91  ~/mysite/templates/admin/index.html
+|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  1  0  ~/mysite/templates/admin/index.html
+|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/mysite/templates/admin/base_site.html
+	*	1574009348	0
+	"	6	77
+	^	6	78
+	.	6	77
+	+	3	75
+	+	6	60
+	+	3	51
+	+	6	72
+	+	3	45
+	+	6	77
+
+> ~/mysite/templates/admin/index.html
+	*	1574009218	0
+	"	5	0
+	^	51	83
+	.	51	82
+	+	31	91
+	+	38	99
+	+	40	104
+	+	51	82
+
+> ~/mysite/mysite/settings.py
+	*	1574009057	0
+	"	40	28
+	^	40	29
+	.	41	0
+	+	28	19
+	+	40	208
+	+	40	4
+	+	41	0
+	+	58	17
+	+	109	15
+	+	58	51
+	+	40	29
+	+	41	0
+
+> /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
+	*	1574008594	0
+	"	52	0
+	^	52	0
 
 > ~/mysite/templates/admin/file11.txt
 	*	1573941085	0
@@ -306,26 +348,6 @@ $
 	^	1	13
 	.	1	12
 	+	1	12
-
-> ~/mysite/mysite/settings.py
-	*	1573940742	0
-	"	58	16
-	^	58	17
-	.	58	17
-	+	28	19
-	+	40	208
-	+	40	4
-	+	41	0
-	+	58	17
-	+	109	15
-	+	58	17
-
-> ~/mysite/templates/admin/base_site.html
-	*	1573940528	0
-	"	3	13
-	^	3	14
-	.	3	13
-	+	3	13
 
 > ~/mysite/polls/admin.py
 	*	1573939114	0
