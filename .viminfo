@@ -18,11 +18,11 @@ $
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1574009349,,"x"
+|2,0,1574302311,,"x"
+:q!
+|2,0,1574301341,,"q!"
 :wq
 |2,0,1572753264,,"wq"
-:q!
-|2,0,1571507325,,"q!"
 :q
 |2,0,1571507318,,"q"
 :write countdown.sh
@@ -64,230 +64,367 @@ $
 |3,0,36,0,1,0,1571510270,"*"
 
 # File marks:
-'0  6  77  ~/mysite/templates/admin/base_site.html
-|4,48,6,77,1574009349,"~/mysite/templates/admin/base_site.html"
-'1  5  0  ~/mysite/templates/admin/index.html
-|4,49,5,0,1574009219,"~/mysite/templates/admin/index.html"
-'2  40  28  ~/mysite/mysite/settings.py
-|4,50,40,28,1574009058,"~/mysite/mysite/settings.py"
-'3  41  22  ~/mysite/mysite/settings.py
-|4,51,41,22,1574009010,"~/mysite/mysite/settings.py"
-'4  31  91  ~/mysite/templates/admin/index.html
-|4,52,31,91,1574008905,"~/mysite/templates/admin/index.html"
-'5  31  91  ~/mysite/templates/admin/index.html
-|4,53,31,91,1574008905,"~/mysite/templates/admin/index.html"
-'6  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,54,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
-'7  6  72  ~/mysite/templates/admin/base_site.html
-|4,55,6,72,1574008380,"~/mysite/templates/admin/base_site.html"
-'8  3  50  ~/mysite/templates/admin/base_site.html
-|4,56,3,50,1574008274,"~/mysite/templates/admin/base_site.html"
-'9  3  50  ~/mysite/templates/admin/base_site.html
-|4,57,3,50,1574008274,"~/mysite/templates/admin/base_site.html"
+'0  10  21  ~/project/project/adopt/views.py
+|4,48,10,21,1574302311,"~/project/project/adopt/views.py"
+'1  5  4  ~/project/project/adopt/templates/adopt/all.html
+|4,49,5,4,1574302265,"~/project/project/adopt/templates/adopt/all.html"
+'2  3  34  ~/project/project/adopt/views.py
+|4,50,3,34,1574302124,"~/project/project/adopt/views.py"
+'3  3  34  ~/project/project/adopt/views.py
+|4,51,3,34,1574302124,"~/project/project/adopt/views.py"
+'4  5  4  ~/project/project/adopt/templates/adopt/all.html
+|4,52,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
+'5  7  47  ~/project/project/adopt/urls.py
+|4,53,7,47,1574301485,"~/project/project/adopt/urls.py"
+'6  7  47  ~/project/project/adopt/urls.py
+|4,54,7,47,1574301422,"~/project/project/adopt/urls.py"
+'7  1  0  ~/project/project/adopt/url.py
+|4,55,1,0,1574301341,"~/project/project/adopt/url.py"
+'8  21  32  ~/project/project/adopt/views.py
+|4,56,21,32,1574301327,"~/project/project/adopt/views.py"
+'9  18  32  ~/project/project/adopt/views.py
+|4,57,18,32,1574301327,"~/project/project/adopt/views.py"
 
 # Jumplist (newest first):
--'  6  77  ~/mysite/templates/admin/base_site.html
-|4,39,6,77,1574009349,"~/mysite/templates/admin/base_site.html"
--'  5  0  ~/mysite/templates/admin/index.html
-|4,39,5,0,1574009219,"~/mysite/templates/admin/index.html"
--'  5  0  ~/mysite/templates/admin/index.html
-|4,39,5,0,1574009219,"~/mysite/templates/admin/index.html"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574009134,"~/mysite/templates/admin/index.html"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574009134,"~/mysite/templates/admin/index.html"
--'  40  28  ~/mysite/mysite/settings.py
-|4,39,40,28,1574009058,"~/mysite/mysite/settings.py"
--'  40  28  ~/mysite/mysite/settings.py
-|4,39,40,28,1574009058,"~/mysite/mysite/settings.py"
--'  40  28  ~/mysite/mysite/settings.py
-|4,39,40,28,1574009058,"~/mysite/mysite/settings.py"
--'  40  28  ~/mysite/mysite/settings.py
-|4,39,40,28,1574009058,"~/mysite/mysite/settings.py"
--'  41  22  ~/mysite/mysite/settings.py
-|4,39,41,22,1574009010,"~/mysite/mysite/settings.py"
--'  41  22  ~/mysite/mysite/settings.py
-|4,39,41,22,1574009010,"~/mysite/mysite/settings.py"
--'  41  22  ~/mysite/mysite/settings.py
-|4,39,41,22,1574009010,"~/mysite/mysite/settings.py"
--'  41  22  ~/mysite/mysite/settings.py
-|4,39,41,22,1574009010,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1574008921,"~/mysite/mysite/settings.py"
--'  59  51  ~/mysite/mysite/settings.py
-|4,39,59,51,1574008921,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1574008921,"~/mysite/mysite/settings.py"
--'  59  51  ~/mysite/mysite/settings.py
-|4,39,59,51,1574008921,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1574008921,"~/mysite/mysite/settings.py"
--'  59  51  ~/mysite/mysite/settings.py
-|4,39,59,51,1574008921,"~/mysite/mysite/settings.py"
--'  58  51  ~/mysite/mysite/settings.py
-|4,39,58,51,1574008921,"~/mysite/mysite/settings.py"
--'  59  51  ~/mysite/mysite/settings.py
-|4,39,59,51,1574008921,"~/mysite/mysite/settings.py"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
--'  31  91  ~/mysite/templates/admin/index.html
-|4,39,31,91,1574008905,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  1  0  ~/mysite/templates/admin/index.html
-|4,39,1,0,1574008707,"~/mysite/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  52  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,52,0,1574008595,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
--'  1  0  /usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html
-|4,39,1,0,1574008568,"/usr/local/lib/python3.6/site-packages/django/contrib/admin/templates/admin/index.html"
+-'  10  21  ~/project/project/adopt/views.py
+|4,39,10,21,1574302311,"~/project/project/adopt/views.py"
+-'  3  34  ~/project/project/adopt/views.py
+|4,39,3,34,1574302273,"~/project/project/adopt/views.py"
+-'  5  4  ~/project/project/adopt/templates/adopt/all.html
+|4,39,5,4,1574302265,"~/project/project/adopt/templates/adopt/all.html"
+-'  5  4  ~/project/project/adopt/templates/adopt/all.html
+|4,39,5,4,1574302265,"~/project/project/adopt/templates/adopt/all.html"
+-'  3  34  ~/project/project/adopt/views.py
+|4,39,3,34,1574302124,"~/project/project/adopt/views.py"
+-'  3  34  ~/project/project/adopt/views.py
+|4,39,3,34,1574302124,"~/project/project/adopt/views.py"
+-'  21  32  ~/project/project/adopt/views.py
+|4,39,21,32,1574301966,"~/project/project/adopt/views.py"
+-'  22  32  ~/project/project/adopt/views.py
+|4,39,22,32,1574301966,"~/project/project/adopt/views.py"
+-'  22  32  ~/project/project/adopt/views.py
+|4,39,22,32,1574301966,"~/project/project/adopt/views.py"
+-'  5  4  ~/project/project/adopt/templates/adopt/all.html
+|4,39,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
+-'  5  4  ~/project/project/adopt/templates/adopt/all.html
+|4,39,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
+-'  5  4  ~/project/project/adopt/templates/adopt/all.html
+|4,39,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
+-'  5  4  ~/project/project/adopt/templates/adopt/all.html
+|4,39,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
+-'  1  0  ~/project/project/adopt/templates/adopt/all.html
+|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
+-'  1  0  ~/project/project/adopt/templates/adopt/all.html
+|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
+-'  1  0  ~/project/project/adopt/templates/adopt/all.html
+|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
+-'  1  0  ~/project/project/adopt/templates/adopt/all.html
+|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
+-'  1  0  ~/project/project/adopt/templates/adopt/all.html
+|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
+-'  1  0  ~/project/project/adopt/templates/adopt/all.html
+|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  7  47  ~/project/project/adopt/urls.py
+|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  6  0  ~/project/project/adopt/urls.py
+|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  1  0  ~/project/project/adopt/url.py
+|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/project/project/adopt/views.py
+	*	1574302309	0
+	"	10	21
+	^	10	22
+	.	11	0
+	+	1	35
+	+	9	0
+	+	7	20
+	+	5	12
+	+	8	43
+	+	11	27
+	+	10	34
+	+	17	49
+	+	17	71
+	+	2	23
+	+	21	32
+	+	17	0
+	+	12	15
+	+	14	0
+	+	13	23
+	+	15	51
+	+	18	0
+	+	3	34
+	+	11	0
+
+> ~/project/project/adopt/templates/adopt/all.html
+	*	1574302264	0
+	"	5	4
+	^	5	5
+	.	5	4
+	+	2	22
+	+	3	32
+	+	5	4
+
+> ~/project/project/adopt/urls.py
+	*	1574301470	0
+	"	7	47
+	^	7	48
+	.	7	47
+	+	5	14
+	+	3	19
+	+	6	28
+	+	1	27
+	+	6	29
+	+	8	0
+	+	6	37
+	+	7	47
+
+> ~/project/project/adopt/url.py
+	*	1574301336	0
+	"	1	0
+
+> ~/project/project/adopt/models.py
+	*	1574300812	0
+	"	42	14
+	^	42	15
+	.	42	14
+	+	6	24
+	+	19	34
+	+	20	37
+	+	2	0
+	+	3	4
+	+	46	0
+	+	21	2
+	+	20	38
+	+	34	16
+	+	21	0
+	+	34	27
+	+	35	42
+	+	38	25
+	+	33	0
+	+	27	17
+	+	32	0
+	+	31	0
+	+	32	4
+	+	31	10
+	+	29	12
+	+	28	16
+	+	30	28
+	+	25	18
+	+	18	0
+	+	14	31
+	+	15	44
+	+	13	0
+	+	6	116
+	+	11	12
+	+	8	7
+	+	9	28
+	+	7	0
+	+	11	4
+	+	17	4
+	+	39	4
+	+	10	24
+	+	16	25
+	+	20	38
+	+	21	0
+	+	29	17
+	+	37	18
+	+	42	14
+
+> ~/project/project/adopt/admin.py
+	*	1574300646	0
+	"	4	23
+	^	4	24
+	.	4	23
+	+	2	23
+	+	4	23
+
+> ~/project/project/models.py
+	*	1574297928	0
+	"	1	0
+
+> ~/project/project/project/settings.py
+	*	1574297879	0
+	"	40	11
+	^	40	12
+	.	40	11
+	+	28	18
+	+	40	11
+
+> adopt/models
+	*	1574296617	0
+	"	1	0
+
+> ~/project/project/project/urls.py
+	*	1574296564	0
+	"	20	7
+	^	20	8
+	.	21	35
+	+	17	31
+	+	20	41
+	+	21	35
+
+> ~/project/project/project/adopt
+	*	1574296339	0
+	"	1	0
 
 > ~/mysite/templates/admin/base_site.html
 	*	1574009348	0
@@ -589,44 +726,6 @@ $
 > ~/mysite/manage.py
 	*	1573921845	0
 	"	1	0
-
-> ~/project/project/project/urls.py
-	*	1573698257	0
-	"	22	0
-	^	21	36
-	.	21	35
-	+	17	31
-	+	20	41
-	+	21	35
-
-> ~/project/project/adopt/urls.py
-	*	1573698249	0
-	"	6	0
-	^	6	1
-	.	7	0
-	+	5	14
-	+	3	19
-	+	6	28
-	+	1	27
-	+	6	29
-	+	7	0
-
-> ~/project/project/adopt/views.py
-	*	1573698175	0
-	"	4	12
-	^	4	13
-	.	4	12
-	+	1	35
-	+	8	0
-	+	6	20
-	+	4	12
-
-> ~/project/project/project/settings.py
-	*	1573696654	0
-	"	32	0
-	^	28	21
-	.	28	18
-	+	28	18
 
 > ~/gitdemo/dl3333_git_hw/csv1.csv
 	*	1572755289	0
