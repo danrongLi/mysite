@@ -12,7 +12,7 @@ class Pet(models.Model):
 
 
     species = models.CharField(
-            help_text=_('Species of Animal'),
+           help_text=_('Species of Animal'),
             max_length=100,
     )
 
