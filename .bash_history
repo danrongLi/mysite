@@ -894,3 +894,409 @@ systemctl kill jupyter
 :
 sudo systemctl stop jupyter
 sudo python manage.py runserver 0.0.0.0:80
+sudo systemctl stop jupyter
+ls
+cd SquirrelTracker
+ls
+python manage.py Users/danrong/Downloads/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv
+python manage.py import_squirrel_data Users/danrong/Downloads/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv
+manage.py help
+vim manage.py
+python from django.core.files import File
+from django.core.files import File
+python manage.py startapp SquirrelTracker
+python manage.py startapp SquirrelFinder
+ls
+cd SquirrelFinder
+ls
+vim views.py 
+cd ..
+ls
+cd SquirrelTracker
+ls
+cd
+cd SquirrelTracker
+ls
+cd SquirrelTracker
+ls
+cd urls.py
+vim urls.py 
+cd
+cd /usr
+cd bin
+ls
+cd
+cd ~/Downloads
+chmod +x Users/danrong/Downloads/2018_Central_Park_Squirrel_Census_-
+_Squirrel_Data.csv
+chmod +x 2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv
+virtualenv mysite
+cd SquirrelTracker/
+ls
+cd SquirrelTracker
+ls
+vim settings.py 
+git add .
+git commit -m"changed into EST and added *'
+'
+"
+git commit -m"changed into EST and added *'
+'
+"
+git commit -m"changed into EST and added *"
+git push
+git commit -m"changed into EST and added*"
+cd
+git commit -m"EST and *"
+cd SquirrelTracker/
+git commit -m "EST and *"
+git add .
+git commit -m"EST*"
+git push
+ls
+wget -O squirrel.csv https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw
+ls
+git add .
+git commit -m"added squirrel csv"
+git push
+vim squirrel.csv 
+ls
+python manage.py squirrel.csv
+python manage.py import squirrel.csv
+python manage.py open squirrel.csv
+sudo systemctl stop jupyter
+ls
+cd SquirrelTracker/
+ls
+cd SquirrelTracker/
+ls
+cd ..
+cd SquirrelFinder/
+ls
+cd
+ls
+cd mysite
+ls
+cd
+cd SquirrelTracker/
+ls
+cd SquirrelFinder/
+ls
+cd ..
+cd SquirrelTracker/
+ls
+vim settings.py 
+ls
+cd ..
+ls
+python manage.py migrate
+ls
+vim db.sqlite3 
+ls
+.mode csv
+./manage.py inspectdb
+ls
+cd SquirrelTracker/
+ls
+cd ..
+cd SquirrelFinder/
+ls
+vim views.py 
+ls
+mkdir templates
+ls
+cd templates
+ls
+mkdir map
+cd map
+ls
+vim map.html
+ls
+vim map.html
+ls
+cd ..
+ls
+cd ..
+ls
+vim getcsv.py
+rm getcsv.py 
+ls
+cd SquirrelTracker/
+ls
+cd ..
+cd SquirrelFinder/
+ls
+mkdir management/commands
+mkdir management
+cd management/
+mkdir commands
+cd commands/
+vim import_squirrel_data.py
+ls
+cd ..
+ls
+cd ..
+ls
+vim models.py
+cd ..
+git add .
+git commit -m 'added getcsv.py and models.py'
+git push
+cd
+ls
+cd project
+ls
+cd project
+ls
+cd adopt
+ls
+vim admin.py 
+vim models.py 
+vim views.py 
+vim models.py 
+cd
+sudo python pip install django-postgres-copy
+pip install django-postgres-copy
+pip install --upgrade pip
+pip install django-postgres-copy
+pip install -U setuptools
+pip install django-postgres-copy
+systmctl stop jupyter
+systemctl stop jupyter
+sudo systemctl stop jupyter
+ls
+cd SquirrelTracker
+ls
+git clone git@github.com:danrongLi/SquirrelTracker.git
+git pull
+ls
+cd SquirrelTracker/
+ls
+cd ..
+cd SquirrelFinder/
+ls
+cd
+ls
+cd SquirrelTracker/
+ls
+sudo python manage.py runserver 0.0.0.0:80
+python manage.py import_squirrel_data vfnx-vebw.csv 
+ls
+cd
+ls
+cd gitdemo/
+ls
+cd
+cd project
+ls
+git add .
+git commit -m'the adopt project'
+git push
+git push --set-upstream origin feature3
+git push HEAD
+git push
+cd
+cd SquirrelTracker/
+ls
+cd SquirrelFinder/
+ls
+vim views.py 
+cd ..
+python manage.py runserver 0.0.0.0:80
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder/
+ls
+cd ..
+cd SquirrelTq
+cd SquirrelTracker/
+ls
+vim urls.py 
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelTracker/
+ls
+vim urls.py 
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelTracker/
+ls
+vim urls.py 
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelTracker/
+ls
+cd ..
+cd SquirrelFinder/
+ls
+vim views.py 
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+ls
+mkdir map
+cd map
+vim views.py
+cd ..
+cd SquirrelFinder/
+ls
+cd templates
+ls
+cd map
+ls
+rm map.html
+rm map
+cd ..
+rmdir map
+cd ..
+rmdir templates
+ls
+cd ..
+ls
+cd map
+ls
+mkdir templates
+cd templates
+ls
+vim map.html
+cd ..
+ls
+cd SquirrelFinder/
+ls
+cd ..
+cd SquirrelTracker/
+ls
+vim urls.py 
+cd ..
+cd SquirrelFinder/
+mkdir templates
+cd templates
+mkdir map
+cd map
+vim map.html
+cd ..
+ls
+vim views.py 
+ls
+cd ..
+ls
+cd SquirrelTracker/
+ls
+vim urls.py 
+cd ..
+cd SquirrelFinder/
+ls
+vim urls.py
+vim views.py 
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelTracker/
+ls
+vim settings.py 
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder/
+ls
+cd templates
+ls
+cd map
+ls
+rm map.html
+cd ..
+rmdir map
+ls
+vim map.html
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder
+ls
+cd map
+mkdir map
+cd map
+ls
+vim map.html
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder/
+ls
+cd templates
+ls
+rm map.html
+cd ..
+rm templates
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder/
+ls
+cd templates
+ls
+vim map.html
+cd ..
+ls
+cd ..
+ls
+cd SquirrelTracker/
+ls
+vim settings.py 
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder/
+ls
+cd templates
+ls
+rm map.html
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder/
+cd templates
+ls
+vim map.html
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+ls
+cd map
+ls
+cd templates
+ls
+cd ..
+cd SquirrelTracker/
+ls
+vim settings.py 
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder/
+ls
+cd templates
+ls
+rm map.html
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder/templates/
+cd ..
+rmdir templates
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+cd SquirrelFinder/
+ls
+cd map
+ls
+rm map.html
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+ls
+cd map
+ls
+cd ..
+cd SquirrelFinder/
+ls
+cd map
+ls
+cd ..
+rmdir map
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+ls
+cd map
+cd ..
+sudo python manage.py runserver 0.0.0.0:80
+git add .
+git commit -m'added the map view html'
+git push

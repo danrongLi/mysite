@@ -11,16 +11,18 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/x
+~Msle0~/\<var\>
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1574302311,,"x"
+|2,0,1575407489,,"x"
 :q!
-|2,0,1574301341,,"q!"
+|2,0,1575406078,,"q!"
+:w
+|2,0,1575406073,,"w"
 :wq
 |2,0,1572753264,,"wq"
 :q
@@ -31,8 +33,6 @@ $
 |2,0,1571507157,,"write"
 :write tools11/1
 |2,0,1571507137,,"write tools11/1"
-:w
-|2,0,1571269539,,"w"
 :quit
 |2,0,1571269088,,"quit"
 :write joker.txt
@@ -41,6 +41,8 @@ $
 |2,0,1571268858,,"e joker.txt"
 
 # Search String History (newest to oldest):
+? \<var\>
+|2,1,1575404832,,"\\<var\\>"
 ? @$
 |2,1,1573697118,,"@$"
 ??x
@@ -53,299 +55,347 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""0	CHAR	0
+"0	CHAR	0
 	*
-|3,1,0,0,1,0,1573697118,"*"
+|3,0,0,0,1,0,1573697118,"*"
 "1	LINE	0
 	njhjhjhd
 |3,0,1,1,1,0,1571269634,"njhjhjhd"
-"-	CHAR	0
-	*
-|3,0,36,0,1,0,1571510270,"*"
+""-	CHAR	0
+	 
+|3,1,36,0,1,0,1575309415," "
 
 # File marks:
-'0  10  21  ~/project/project/adopt/views.py
-|4,48,10,21,1574302311,"~/project/project/adopt/views.py"
-'1  5  4  ~/project/project/adopt/templates/adopt/all.html
-|4,49,5,4,1574302265,"~/project/project/adopt/templates/adopt/all.html"
-'2  3  34  ~/project/project/adopt/views.py
-|4,50,3,34,1574302124,"~/project/project/adopt/views.py"
-'3  3  34  ~/project/project/adopt/views.py
-|4,51,3,34,1574302124,"~/project/project/adopt/views.py"
-'4  5  4  ~/project/project/adopt/templates/adopt/all.html
-|4,52,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
-'5  7  47  ~/project/project/adopt/urls.py
-|4,53,7,47,1574301485,"~/project/project/adopt/urls.py"
-'6  7  47  ~/project/project/adopt/urls.py
-|4,54,7,47,1574301422,"~/project/project/adopt/urls.py"
-'7  1  0  ~/project/project/adopt/url.py
-|4,55,1,0,1574301341,"~/project/project/adopt/url.py"
-'8  21  32  ~/project/project/adopt/views.py
-|4,56,21,32,1574301327,"~/project/project/adopt/views.py"
-'9  18  32  ~/project/project/adopt/views.py
-|4,57,18,32,1574301327,"~/project/project/adopt/views.py"
+'0  49  6  ~/SquirrelTracker/map/templates/map.html
+|4,48,49,6,1575407489,"~/SquirrelTracker/map/templates/map.html"
+'1  4  0  ~/SquirrelTracker/map/views.py
+|4,49,4,0,1575407381,"~/SquirrelTracker/map/views.py"
+'2  24  3  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,50,24,3,1575406493,"~/SquirrelTracker/SquirrelTracker/urls.py"
+'3  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,51,9,30,1575406467,"~/SquirrelTracker/SquirrelFinder/urls.py"
+'4  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,52,9,30,1575406210,"~/SquirrelTracker/SquirrelFinder/urls.py"
+'5  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,53,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+'6  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,54,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+'7  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,55,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+'8  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,56,8,32,1575406035,"~/SquirrelTracker/SquirrelFinder/urls.py"
+'9  5  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,57,5,32,1575406035,"~/SquirrelTracker/SquirrelFinder/urls.py"
 
 # Jumplist (newest first):
--'  10  21  ~/project/project/adopt/views.py
-|4,39,10,21,1574302311,"~/project/project/adopt/views.py"
--'  3  34  ~/project/project/adopt/views.py
-|4,39,3,34,1574302273,"~/project/project/adopt/views.py"
--'  5  4  ~/project/project/adopt/templates/adopt/all.html
-|4,39,5,4,1574302265,"~/project/project/adopt/templates/adopt/all.html"
--'  5  4  ~/project/project/adopt/templates/adopt/all.html
-|4,39,5,4,1574302265,"~/project/project/adopt/templates/adopt/all.html"
--'  3  34  ~/project/project/adopt/views.py
-|4,39,3,34,1574302124,"~/project/project/adopt/views.py"
--'  3  34  ~/project/project/adopt/views.py
-|4,39,3,34,1574302124,"~/project/project/adopt/views.py"
--'  21  32  ~/project/project/adopt/views.py
-|4,39,21,32,1574301966,"~/project/project/adopt/views.py"
--'  22  32  ~/project/project/adopt/views.py
-|4,39,22,32,1574301966,"~/project/project/adopt/views.py"
--'  22  32  ~/project/project/adopt/views.py
-|4,39,22,32,1574301966,"~/project/project/adopt/views.py"
--'  5  4  ~/project/project/adopt/templates/adopt/all.html
-|4,39,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
--'  5  4  ~/project/project/adopt/templates/adopt/all.html
-|4,39,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
--'  5  4  ~/project/project/adopt/templates/adopt/all.html
-|4,39,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
--'  5  4  ~/project/project/adopt/templates/adopt/all.html
-|4,39,5,4,1574301940,"~/project/project/adopt/templates/adopt/all.html"
--'  1  0  ~/project/project/adopt/templates/adopt/all.html
-|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
--'  1  0  ~/project/project/adopt/templates/adopt/all.html
-|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
--'  1  0  ~/project/project/adopt/templates/adopt/all.html
-|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
--'  1  0  ~/project/project/adopt/templates/adopt/all.html
-|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
--'  1  0  ~/project/project/adopt/templates/adopt/all.html
-|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
--'  1  0  ~/project/project/adopt/templates/adopt/all.html
-|4,39,1,0,1574301744,"~/project/project/adopt/templates/adopt/all.html"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301485,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  7  47  ~/project/project/adopt/urls.py
-|4,39,7,47,1574301422,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  6  0  ~/project/project/adopt/urls.py
-|4,39,6,0,1574301361,"~/project/project/adopt/urls.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
--'  1  0  ~/project/project/adopt/url.py
-|4,39,1,0,1574301341,"~/project/project/adopt/url.py"
+-'  49  6  ~/SquirrelTracker/map/templates/map.html
+|4,39,49,6,1575407489,"~/SquirrelTracker/map/templates/map.html"
+-'  53  6  ~/SquirrelTracker/map/templates/map.html
+|4,39,53,6,1575407390,"~/SquirrelTracker/map/templates/map.html"
+-'  4  0  ~/SquirrelTracker/map/views.py
+|4,39,4,0,1575407381,"~/SquirrelTracker/map/views.py"
+-'  4  0  ~/SquirrelTracker/map/views.py
+|4,39,4,0,1575407381,"~/SquirrelTracker/map/views.py"
+-'  24  3  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,24,3,1575406493,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  24  3  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,24,3,1575406493,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  24  3  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,24,3,1575406493,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  24  3  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,24,3,1575406493,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406482,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406482,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406482,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406482,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406467,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406467,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406467,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406467,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406467,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406467,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406467,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406467,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406210,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406210,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406210,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406210,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406210,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406210,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406210,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  9  30  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,9,30,1575406210,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  8  32  ~/SquirrelTracker/SquirrelFinder/urls.py
+|4,39,8,32,1575406101,"~/SquirrelTracker/SquirrelFinder/urls.py"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  1  0  ~/SquirrelTracker/SquirrelFinder/urq
+|4,39,1,0,1575406078,"~/SquirrelTracker/SquirrelFinder/urq"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
+-'  26  0  ~/SquirrelTracker/SquirrelTracker/urls.py
+|4,39,26,0,1575406059,"~/SquirrelTracker/SquirrelTracker/urls.py"
 
 # History of marks within files (newest to oldest):
 
-> ~/project/project/adopt/views.py
-	*	1574302309	0
-	"	10	21
-	^	10	22
-	.	11	0
-	+	1	35
-	+	9	0
-	+	7	20
-	+	5	12
-	+	8	43
-	+	11	27
-	+	10	34
-	+	17	49
-	+	17	71
-	+	2	23
-	+	21	32
-	+	17	0
-	+	12	15
-	+	14	0
-	+	13	23
-	+	15	51
-	+	18	0
-	+	3	34
-	+	11	0
+> ~/SquirrelTracker/map/templates/map.html
+	*	1575407488	0
+	"	49	6
+	^	53	7
+	.	53	6
+	+	55	6
+	+	48	10
+	+	49	66
+	+	52	0
+	+	49	66
+	+	50	60
+	+	51	12
+	+	53	6
 
-> ~/project/project/adopt/templates/adopt/all.html
-	*	1574302264	0
-	"	5	4
-	^	5	5
-	.	5	4
-	+	2	22
-	+	3	32
-	+	5	4
+> ~/SquirrelTracker/map/views.py
+	*	1575407380	0
+	"	4	0
+	^	4	0
+	.	5	0
+	+	1	25
+	+	4	15
+	+	5	0
 
-> ~/project/project/adopt/urls.py
-	*	1574301470	0
-	"	7	47
-	^	7	48
-	.	7	47
-	+	5	14
-	+	3	19
-	+	6	28
-	+	1	27
-	+	6	29
-	+	8	0
-	+	6	37
-	+	7	47
+> ~/SquirrelTracker/SquirrelTracker/urls.py
+	*	1575406492	0
+	"	24	3
+	^	24	4
+	.	24	3
+	+	18	18
+	+	23	19
+	+	18	18
+	+	23	16
+	+	22	44
+	+	19	35
+	+	22	15
+	+	23	31
+	+	23	78
+	+	20	32
+	+	23	67
+	+	24	34
+	+	24	3
 
-> ~/project/project/adopt/url.py
-	*	1574301336	0
+> ~/SquirrelTracker/SquirrelFinder/urls.py
+	*	1575406466	0
+	"	9	30
+	^	9	31
+	.	9	30
+	+	10	0
+	+	4	18
+	+	8	32
+	+	3	35
+	+	5	27
+	+	9	30
+
+> ~/SquirrelTracker/SquirrelFinder/urq
+	*	1575406073	0
 	"	1	0
 
+> ~/SquirrelTracker/SquirrelTracker/settings.py
+	*	1575405859	0
+	"	107	0
+	^	41	10
+	.	41	9
+	+	28	19
+	+	109	15
+	+	59	17
+	+	41	9
+
+> ~/SquirrelTracker/SquirrelFinder/templates/map.html
+	*	1575391340	0
+	"	53	6
+	^	53	7
+	.	53	6
+	+	53	6
+
+> ~/SquirrelTracker/SquirrelFinder/map/map.html
+	*	1575390948	0
+	"	53	6
+	^	53	7
+	.	53	6
+	+	53	6
+
+> ~/SquirrelTracker/SquirrelFinder/views.py
+	*	1575390174	0
+	"	10	3
+	^	10	4
+	.	10	4
+	+	8	40
+	+	7	19
+	+	8	46
+	+	11	30
+	+	10	4
+
+> ~/SquirrelTracker/SquirrelFinder/templates/map/map.html
+	*	1575389747	0
+	"	1	6
+	^	53	7
+	.	53	6
+	+	53	6
+
 > ~/project/project/adopt/models.py
-	*	1574300812	0
-	"	42	14
-	^	42	15
-	.	42	14
+	*	1575309415	0
+	"	15	0
+	^	44	0
+	.	15	0
 	+	6	24
 	+	19	34
 	+	20	37
@@ -388,14 +438,171 @@ $
 	+	29	17
 	+	37	18
 	+	42	14
+	+	15	0
+
+> ~/project/project/adopt/views.py
+	*	1575306599	0
+	"	10	21
+	^	10	22
+	.	11	0
+	+	1	35
+	+	9	0
+	+	7	20
+	+	5	12
+	+	8	43
+	+	11	27
+	+	10	34
+	+	17	49
+	+	17	71
+	+	2	23
+	+	21	32
+	+	17	0
+	+	12	15
+	+	14	0
+	+	13	23
+	+	15	51
+	+	18	0
+	+	3	34
+	+	11	0
 
 > ~/project/project/adopt/admin.py
-	*	1574300646	0
+	*	1575305596	0
 	"	4	23
 	^	4	24
 	.	4	23
 	+	2	23
 	+	4	23
+
+> ~/SquirrelTracker/SquirrelFinder/models.py
+	*	1575305149	0
+	"	130	19
+	^	130	20
+	.	130	19
+	+	2	30
+	+	6	18
+	+	20	14
+	+	17	8
+	+	22	8
+	+	22	9
+	+	76	0
+	+	25	9
+	+	35	8
+	+	26	15
+	+	29	27
+	+	34	29
+	+	43	0
+	+	29	8
+	+	35	19
+	+	48	8
+	+	37	21
+	+	41	8
+	+	52	8
+	+	40	23
+	+	59	37
+	+	66	25
+	+	75	24
+	+	70	6
+	+	73	5
+	+	74	27
+	+	71	29
+	+	78	24
+	+	77	29
+	+	76	7
+	+	83	8
+	+	79	15
+	+	80	37
+	+	98	24
+	+	84	3
+	+	85	25
+	+	87	4
+	+	88	26
+	+	90	9
+	+	91	31
+	+	93	12
+	+	94	34
+	+	96	9
+	+	97	31
+	+	109	175
+	+	99	10
+	+	100	32
+	+	102	8
+	+	103	30
+	+	105	31
+	+	106	40
+	+	107	24
+	+	108	19
+	+	113	41
+	+	131	0
+	+	130	19
+
+> ~/SquirrelTracker/SquirrelFinder/management/commands/import_squirrel_data.py
+	*	1575302903	0
+	"	15	11
+	^	15	12
+	.	15	11
+	+	28	91
+	+	6	28
+	+	3	10
+	+	2	5
+	+	4	0
+	+	18	0
+	+	15	63
+	+	12	7
+	+	14	8
+	+	15	11
+
+> ~/SquirrelTracker/getcsv.py
+	*	1575302420	0
+	"	21	24
+	^	21	25
+	.	29	25
+	+	3	9
+	+	4	0
+	+	29	25
+
+> ~/SquirrelTracker/db.sqlite3
+	*	1575300152	0
+	"	7	0
+	^	7	0
+
+> ~/SquirrelTracker/squirrel.csv
+	*	1574806753	0
+	"	1	0
+
+> ~/SquirrelTracker/manage.py
+	*	1574804306	0
+	"	1	0
+
+> ~/SquirrelTracker/.git/MERGE_MSG
+	*	1574655671	0
+	"	1	0
+
+> ~/project/project/adopt/templates/adopt/all.html
+	*	1574302264	0
+	"	5	4
+	^	5	5
+	.	5	4
+	+	2	22
+	+	3	32
+	+	5	4
+
+> ~/project/project/adopt/urls.py
+	*	1574301470	0
+	"	7	47
+	^	7	48
+	.	7	47
+	+	5	14
+	+	3	19
+	+	6	28
+	+	1	27
+	+	6	29
+	+	8	0
+	+	6	37
+	+	7	47
+
+> ~/project/project/adopt/url.py
+	*	1574301336	0
+	"	1	0
 
 > ~/project/project/models.py
 	*	1574297928	0
